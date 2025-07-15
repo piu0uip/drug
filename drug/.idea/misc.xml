@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/drug28 程序完成/drug/pom.xml" />
+        <option value="$PROJECT_DIR$/drug20 完成药品管理/drug/pom.xml" />
+        <option value="$PROJECT_DIR$/drug06/drug/pom.xml" />
+        <option value="$PROJECT_DIR$/drug10/drug/pom.xml" />
+        <option value="$PROJECT_DIR$/drug17/drug/pom.xml" />
+        <option value="$PROJECT_DIR$/drug20/drug/pom.xml" />
+        <option value="$PROJECT_DIR$/drug28/drug/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
